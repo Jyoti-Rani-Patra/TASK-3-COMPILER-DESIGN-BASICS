@@ -43,3 +43,6 @@ Compiler: GCC
 
 IDE: Code:: VS Code
 
+# OUTPUT: 
+
+![Image](https://github.com/user-attachments/assets/9435b9d0-6ebe-4245-b431-f9f5a5197a23)
